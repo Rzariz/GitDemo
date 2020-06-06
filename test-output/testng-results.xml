@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-05-17T20:24:42 IST" name="Suite" finished-at="2020-05-17T20:24:42 IST" duration-ms="134">
+    <groups>
+    </groups>
+    <test started-at="2020-05-17T20:24:42 IST" name="Test" finished-at="2020-05-17T20:24:42 IST" duration-ms="134">
+      <class name="MavenDemo.RestAPITest">
+        <test-method signature="rest1()[pri:0, instance:MavenDemo.RestAPITest@318ba8c8]" started-at="2020-05-17T20:24:42 IST" name="rest1" finished-at="2020-05-17T20:24:42 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- rest1 -->
+        <test-method signature="rest2()[pri:0, instance:MavenDemo.RestAPITest@318ba8c8]" started-at="2020-05-17T20:24:42 IST" name="rest2" finished-at="2020-05-17T20:24:42 IST" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- rest2 -->
+      </class> <!-- MavenDemo.RestAPITest -->
+      <class name="MavenDemo.AppiumTest">
+        <test-method signature="app1()[pri:0, instance:MavenDemo.AppiumTest@54c562f7]" started-at="2020-05-17T20:24:42 IST" name="app1" finished-at="2020-05-17T20:24:42 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- app1 -->
+        <test-method signature="app2()[pri:0, instance:MavenDemo.AppiumTest@54c562f7]" started-at="2020-05-17T20:24:42 IST" name="app2" finished-at="2020-05-17T20:24:42 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- app2 -->
+      </class> <!-- MavenDemo.AppiumTest -->
+      <class name="MavenDemo.SeleniumTest">
+        <test-method signature="sel1()[pri:0, instance:MavenDemo.SeleniumTest@63a65a25]" started-at="2020-05-17T20:24:42 IST" name="sel1" finished-at="2020-05-17T20:24:42 IST" duration-ms="18" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sel1 -->
+        <test-method signature="sel2()[pri:0, instance:MavenDemo.SeleniumTest@63a65a25]" started-at="2020-05-17T20:24:42 IST" name="sel2" finished-at="2020-05-17T20:24:42 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sel2 -->
+      </class> <!-- MavenDemo.SeleniumTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
